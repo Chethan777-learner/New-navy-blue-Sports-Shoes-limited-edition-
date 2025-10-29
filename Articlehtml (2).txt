@@ -1,0 +1,81 @@
+<html lang="en">
+<head>
+<section class="👕Fashion👗"
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>👟 Stylish navy blue Sports Shoes  for Men | 5 Min Dealzone</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: #f2f6ff;
+      color: #222;
+      text-align: center;
+    }
+    section {
+      background: #fff;
+      border-radius: 15px;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      max-width: 500px;
+      margin: auto;
+    }
+    img {
+      width: 100%;
+      max-width: 350px;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+    ul {
+      list-style: none;
+      text-align: left;
+      padding: 0;
+      margin: 10px 0;
+    }
+    li {
+      background: #e9f0ff;
+      margin: 8px 0;
+      padding: 8px;
+      border-radius: 6px;
+    }
+    a {
+      background: #007bff;
+      color: white;
+      text-decoration: none;
+      padding: 10px 18px;
+      border-radius: 8px;
+      display: inline-block;
+      margin-top: 10px;
+    }
+    a:hover {
+      background: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <section>
+    <img src="https://777-learner.github.io/shoes.jpg" 
+         alt="Running Shoes">
+    <h1>Stylish Comfortable Sport Shoes for Men</h1>
+
+    <h2>More Details</h2>
+    <ul>
+      <li>Color: Navy Blue</li>
+      <li>Sizes: 6, 7, 8, 9, 10</li>
+      <li>COD Available</li>
+      <li>1000+ Reviews</li>
+      <li>30+ Ratings</li>
+    </ul>
+
+    <h2>Buy Here 👇</h2>
+    <a href="https://extp.in/ML05BJ" target="_blank">👟 View Deal</a>
+  </section>
+
+</section>
+</body>
+</html>
